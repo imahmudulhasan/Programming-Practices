@@ -1,2 +1,2 @@
 # Programming-Practices
-this is programming language practice  repository
+This is programming language practice  repository.
