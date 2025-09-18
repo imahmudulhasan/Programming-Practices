@@ -1,5 +1,5 @@
-Age= 22
 print(Age)
+print(type(Age))
 
 name = "Mahmudul Hasan"
 print(name)
