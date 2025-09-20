@@ -3,3 +3,6 @@ print(a)
 
 b = input("Enter your name: ")
 print(b)
+
+c = input("Enter your name: ")
+print(c)
